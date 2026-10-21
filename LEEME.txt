@@ -1,0 +1,33 @@
+RETO DE 7 DIAS - FORTALEZA INQUEBRANTABLE
+Paquete para alojar en tu propio hosting
+
+CONTENIDO
+- index.html  -> la pagina del reto (incluye el logotipo)
+- audio/      -> los 7 audios (practica1.mp3 a practica7.mp3)
+
+IMPORTANTE: no cambies los nombres ni muevas la carpeta "audio".
+La pagina busca los audios en audio/practica1.mp3 ... practica7.mp3.
+
+COMO PUBLICARLO (cualquiera de estas opciones)
+1. Netlify Drop (la mas facil): entra a app.netlify.com/drop y arrastra
+   la carpeta completa. Te da un enlace publico al instante.
+2. Cloudflare Pages o Vercel: crea un proyecto nuevo, sube la carpeta
+   y publicalo como sitio estatico (sin comandos de compilacion).
+3. Tu propio hosting o dominio (cPanel u otro): sube index.html y la
+   carpeta audio a la carpeta publica (public_html), o a una subcarpeta
+   como tudominio.com/reto7.
+
+Los precios y condiciones de estos servicios cambian: revisalos antes.
+
+DESPUES DE SUBIRLO
+- Abre el enlace en tu celular y prueba el audio del dia 1 y del dia 7.
+- Comprueba que el HTTPS (candado) este activo.
+- Pega ese enlace en la leccion de acceso de tu producto en Hotmart.
+
+NOTAS
+- El diario de cada persona se guarda solo en su navegador y dispositivo.
+  Si cambia de telefono o borra los datos del navegador, lo pierde.
+- Si abren el enlace desde el navegador interno de Facebook o Instagram,
+  el diario puede no guardarse. Pide que lo abran en su navegador normal.
+- El enlace no tiene contrasena: quien lo tenga puede abrirlo. Usa una
+  direccion poco obvia y no la publiques fuera de Hotmart.
