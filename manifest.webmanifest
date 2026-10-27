@@ -1,0 +1,32 @@
+{
+ "name": "Reto de 7 días · Fortaleza Inquebrantable",
+ "short_name": "Reto 7 días",
+ "description": "Siete días para volver a tu centro: prácticas guiadas en audio y diario interactivo.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#120f2b",
+ "theme_color": "#120f2b",
+ "lang": "es",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
